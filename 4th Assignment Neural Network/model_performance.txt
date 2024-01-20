@@ -1,0 +1,15 @@
+Final Test Accuracy: 75.97%
+
+Confusion Matrix:
+[[82 17]
+ [20 35]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.83      0.82        99
+           1       0.67      0.64      0.65        55
+
+    accuracy                           0.76       154
+   macro avg       0.74      0.73      0.74       154
+weighted avg       0.76      0.76      0.76       154
